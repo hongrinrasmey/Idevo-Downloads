@@ -4,6 +4,8 @@
 
 Write notes, build your own learning paths, practise with flashcards and quizzes, and track your progress, all on your device.
 
+<p align="center"><img src="demo.gif" width="300" alt="idevo demo: continuing a lesson, answering a practice question and keeping a study streak"></p>
+
 - **No account and no analytics.** Your data lives on your phone.
 - **Works fully offline.** AI and sync are optional extras, both off by default, and both run on a server you own.
 - **English and ខ្មែរ.**
